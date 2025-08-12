@@ -20,12 +20,7 @@ This is a full-stack web application for managing products, built with the Larav
 
 Follow these steps to get the project up and running on your local machine.
 
-### Prerequisites
 
--   PHP >= 8.1
--   Composer
--   Node.js & npm
--   A web server (like the one built into Laravel, or a tool like Laragon, Valet, or XAMPP)
 
 ### Steps
 
